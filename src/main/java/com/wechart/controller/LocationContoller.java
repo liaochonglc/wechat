@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 //定位
 //加一个
-//1
+//12
 @Controller
 @RequestMapping("/location")
 public class LocationContoller {
